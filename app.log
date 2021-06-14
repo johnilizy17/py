@@ -1,0 +1,16 @@
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.43.140:5000/ (Press CTRL+C to quit)
+INFO:nano:Metrics request successfull
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2021 01:22:27] "GET /metrics HTTP/1.1" 200 -
+INFO:nano:Main request successfull
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2021 01:22:35] "GET / HTTP/1.1" 200 -
+INFO:nano:Status request successfull
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2021 01:22:55] "GET /status HTTP/1.1" 200 -
+INFO:nano:Metrics request successfull
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2021 01:23:02] "GET /metrics HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2021 06:17:52] "[33mGET /notfound HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2021 06:18:15] "[33mGET /notfound HTTP/1.1[0m" 404 -
